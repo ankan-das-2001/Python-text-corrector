@@ -6,7 +6,7 @@ This software is used to check the spelling, grammer of any english Statements. 
 To use the software go through the steps below:
 
 ```bash
-git clone
+git clone https://github.com/ankan-das-2001/Python-text-corrector.git
 ```
 
 For installing all libraries and dependencies run the following command

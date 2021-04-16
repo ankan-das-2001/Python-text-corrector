@@ -16,7 +16,7 @@ chmod +x setup.sh
 ```
 
 ```bash
-./setup
+./setup.sh
 ```
 
 After following all the steps above, you are good to go and use the software.
